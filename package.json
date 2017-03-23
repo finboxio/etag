@@ -1,8 +1,8 @@
 {
-  "name": "koa-etag",
+  "name": "koa1-etag",
   "description": "ETag support for koa",
-  "repository": "koajs/etag",
-  "version": "2.1.0",
+  "repository": "finboxio/etag",
+  "version": "2.2.0",
   "keywords": [
     "koa",
     "middleware",
@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "istanbul": "^0.4.0",
-    "koa": "*",
+    "koa": "1",
     "should": "3",
     "mocha": "2",
     "supertest": "0",

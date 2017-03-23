@@ -10,6 +10,8 @@
 
  ETag support for Koa responses using [etag](https://github.com/jshttp/etag).
 
+ *Repository pins Koa to koa@1*
+
 ## Installation
 
 ```js
